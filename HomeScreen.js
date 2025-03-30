@@ -184,6 +184,7 @@ const styles = StyleSheet.create({
         backgroundColor:'white',
         borderRadius:15,
         marginInlineEnd:24,
+        marginTop:40
         
         
 
